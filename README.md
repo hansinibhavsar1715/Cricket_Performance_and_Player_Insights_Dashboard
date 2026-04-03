@@ -2,7 +2,7 @@
 An interactive Power BI dashboard that provides deep insights into cricket player and team performance using visual analytics.
 
 ## 📸 Dashboard Preview
-👉 
+👉  ![Dashboard 1]()
 ## 📊 Features
 ### Player Analysis:
 • Top 10 run scorers

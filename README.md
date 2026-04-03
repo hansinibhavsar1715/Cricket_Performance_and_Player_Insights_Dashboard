@@ -3,6 +3,9 @@ An interactive Power BI dashboard that provides deep insights into cricket playe
 
 ## 📸 Dashboard Preview
 👉  ![Dashboard 1](https://github.com/hansinibhavsar1715/Cricket_Performance_and_Player_Insights_Dashboard/blob/main/Screenshot%202026-04-03%20105902.png?raw=true)
+
+![Dashboard 2](https://github.com/hansinibhavsar1715/Cricket_Performance_and_Player_Insights_Dashboard/blob/main/Screenshot%202026-04-03%20105921.png?raw=true)
+
 ## 📊 Features
 ### Player Analysis:
 • Top 10 run scorers
